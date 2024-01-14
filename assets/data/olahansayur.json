@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "nama": "Sayur Capcay Pelangi",
+        "gambar": "https://th.bing.com/th/id/OIP.5e8_PJIZ9J_SpY7jL3MDNwHaFP?w=266&h=189&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "100 gr kol, potong-potong",
+          "100 gr brokoli, potong-potong",
+          "1 buah wortel, potong serong",
+          "100 gr kembang kol, potong-potong",
+          "1 buah paprika merah, potong-potong",
+          "100 gr buncis, potong-potong",
+          "3 siung bawang putih, cincang halus",
+          "1 ruas jahe, cincang halus",
+          "1 sdm saus tiram",
+          "1 sdm kecap manis",
+          "Garam dan merica secukupnya",
+          "1 sdm minyak sayur untuk menumis"
+        ],
+        "langkah": [
+          "Panaskan minyak sayur, tumis bawang putih dan jahe hingga harum.",
+          "Tambahkan semua sayuran, aduk rata hingga sayuran layu.",
+          "Tambahkan saus tiram, kecap manis, garam, dan merica. Aduk kembali.",
+          "Masak hingga sayuran matang sesuai selera.",
+          "Angkat dan sajikan Sayur Capcay Pelangi dalam piring.",
+          "Nikmati keceriaan warna dan rasa dalam setiap suapannya!"
+        ],
+        "waktu_masak": "15 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Mudah"
+      },
+      {
+        "id": 2,
+        "nama": "Tumis Buncis Tempe Pedas",
+        "gambar": "https://th.bing.com/th/id/OIP.fNrEOmdJ5fFpMk5kE2NYvAHaD4?w=306&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "200 gr buncis, potong-potong",
+          "150 gr tempe, potong kotak",
+          "2 buah bawang merah, iris tipis",
+          "2 siung bawang putih, cincang halus",
+          "2 buah cabai merah, iris serong (sesuai selera)",
+          "1 sdm saus tiram",
+          "1 sdm kecap manis",
+          "1/2 sdt garam",
+          "1/4 sdt merica",
+          "1 sdm minyak sayur untuk menumis"
+        ],
+        "langkah": [
+          "Panaskan minyak sayur, tumis bawang merah dan bawang putih hingga harum.",
+          "Masukkan cabai merah, tumis hingga layu.",
+          "Tambahkan tempe dan buncis, aduk rata.",
+          "Tuangkan saus tiram, kecap manis, garam, dan merica. Aduk kembali.",
+          "Masak hingga buncis dan tempe matang serta meresap bumbu.",
+          "Angkat dan sajikan Tumis Buncis Tempe Pedas dalam piring."
+        ],
+        "waktu_masak": "20 Menit",
+        "porsi": "3-4 porsi",
+        "tingkat_kesulitan": "Mudah"
+      },
+      {
+        "id": 3,
+        "nama": "Sayur Asem",
+        "gambar": "https://th.bing.com/th/id/OIP.Ar77GdyZHWolGmtRfJG7xwHaEK?w=276&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "200 gr kacang panjang, potong-potong",
+          "100 gr melinjo",
+          "1 buah jagung manis, potong-potong",
+          "100 gr labu siam, kupas dan potong kotak",
+          "1 buah tomat, potong-potong",
+          "2 lembar daun salam",
+          "2 cm lengkuas, memarkan",
+          "2 batang serai, memarkan",
+          "1 sdm gula merah, serut",
+          "1 sdm asam jawa, larutkan dalam air",
+          "Garam secukupnya",
+          "Air secukupnya",
+          "1 sdm minyak sayur untuk menumis"
+        ],
+        "langkah": [
+          "Panaskan minyak sayur, tumis lengkuas, serai, daun salam, dan gula merah hingga harum.",
+          "Tambahkan kacang panjang, melinjo, jagung, dan labu siam. Aduk rata.",
+          "Tuangkan air secukupnya, masak hingga sayuran setengah matang.",
+          "Tambahkan tomat, asam jawa, dan garam. Aduk kembali.",
+          "Masak hingga sayuran matang dan kuahnya terasa segar.",
+          "Angkat dan sajikan Sayur Asem dalam mangkuk."
+        ],
+        "waktu_masak": "30 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Mudah"
+      },
+      {
+        "id": 4,
+        "nama": "Sambal Goreng Ati Ampela",
+        "gambar": "https://th.bing.com/th/id/OIP.6sm5kokXENrkQ5A75dQadgHaHa?w=160&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "200 gr hati ayam, potong-potong",
+          "200 gr ampela ayam, potong-potong",
+          "2 buah kentang, potong dadu dan goreng",
+          "2 lembar daun salam",
+          "2 cm lengkuas, memarkan",
+          "2 batang serai, memarkan",
+          "2 lembar daun jeruk",
+          "3 buah cabai merah, iris serong",
+          "5 buah cabai hijau, iris serong",
+          "5 buah cabai rawit merah",
+          "3 siung bawang putih, cincang halus",
+          "2 buah tombo, serut",
+          "1 sdm gula merah, serut",
+          "1 sdm terasi bakar",
+          "1 sdm petis udang",
+          "Garam dan kaldu ayam secukupnya",
+          "Minyak sayur untuk menumis"
+        ],
+        "langkah": [
+          "Tumis bawang putih, cabai merah, cabai hijau, cabai rawit, terasi, petis udang, lengkuas, serai, dan daun salam hingga harum.",
+          "Masukkan hati ayam, ampela ayam, dan daun jeruk. Aduk rata.",
+          "Tambahkan gula merah, serut tombo, garam, dan kaldu ayam. Aduk kembali.",
+          "Terakhir, masukkan kentang goreng. Aduk hingga bumbu meresap.",
+          "Sambal Goreng Ati Ampela siap disajikan."
+        ],
+        "waktu_masak": "45 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 5,
+        "nama": "Sayur Lodeh",
+        "gambar": "https://th.bing.com/th/id/OIP.4IP22yb2MDYkhMSApCYmMQHaEK?w=302&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "200 gr tahu, potong dadu",
+          "100 gr tempe, potong dadu",
+          "100 gr labu siam, potong dadu",
+          "1 ikat daun melinjo",
+          "2 lembar daun salam",
+          "2 batang serai, memarkan",
+          "2 cm lengkuas, memarkan",
+          "2 lembar daun jeruk",
+          "3 cabai merah, iris serong",
+          "3 cabai hijau, iris serong",
+          "2 cm kunyit, parut",
+          "3 siung bawang putih, cincang halus",
+          "2 cm jahe, cincang halus",
+          "1 sdm terasi",
+          "1 sdm garam",
+          "1 sdt gula",
+          "200 ml santan kelapa",
+          "2 sdm minyak sayur untuk menumis",
+          "Air secukupnya"
+        ],
+        "langkah": [
+          "Panaskan minyak sayur, tumis bawang putih, jahe, kunyit, cabai merah, dan cabai hijau hingga harum.",
+          "Masukkan lengkuas, serai, daun salam, daun jeruk, dan terasi. Aduk rata.",
+          "Tambahkan labu siam, tempe, dan tahu. Aduk hingga semua bahan tercampur.",
+          "Tuangkan santan kelapa, aduk rata. Tambahkan air secukupnya, masak hingga sayuran matang.",
+          "Tambahkan garam dan gula, sesuaikan dengan selera. Aduk dan masak hingga kuah menyusut.",
+          "Sayur Lodeh siap disajikan dengan nasi hangat."
+        ],
+        "waktu_masak": "40 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Mudah"
+      },
+      {
+        "id": 6,
+        "nama": "Sayur Bening Bayam",
+        "gambar": "https://th.bing.com/th/id/OIP.vNdMroUq7SUt0OnB3KAehAHaFj?w=263&h=197&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "200 gr bayam, petik daunnya",
+          "2 wortel, potong serong",
+          "50 gr jagung muda, potong-potong",
+          "2 batang seledri, iris halus",
+          "1 buah tomat merah, potong dadu",
+          "2 lembar daun salam",
+          "2 lembar daun jeruk",
+          "2 cm lengkuas, memarkan",
+          "3 cm jahe, memarkan",
+          "1 liter air",
+          "Garam dan gula secukupnya",
+          "2 sdm minyak sayur untuk menumis"
+        ],
+        "langkah": [
+          "Panaskan minyak sayur, tumis jahe, lengkuas, daun salam, dan daun jeruk hingga harum.",
+          "Tambahkan wortel, jagung muda, dan tomat. Aduk rata.",
+          "Tuangkan air secukupnya, masak hingga sayuran setengah matang.",
+          "Tambahkan bayam, seledri, garam, dan gula. Masak hingga sayuran matang dan kuah bening.",
+          "Sayur Bening Bayam siap disajikan."
+        ],
+        "waktu_masak": "20 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Mudah"
+      },
+      {
+        "id": 7,
+        "nama": "Sayur Cah Kangkung",
+        "gambar": "https://th.bing.com/th/id/OIP.fmVaveRoFrWAVTlNRAdxMwHaEH?w=322&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "1 ikat kangkung, petik daunnya",
+          "2 wortel, iris tipis",
+          "2 batang bawang daun, potong 3 cm",
+          "3 siung bawang putih, cincang halus",
+          "3 buah cabai merah, iris serong",
+          "2 buah cabai hijau, iris serong",
+          "1 sdm tauco",
+          "1 sdm saus tiram",
+          "1/2 sdt gula",
+          "Garam secukupnya",
+          "2 sdm minyak sayur untuk menumis"
+        ],
+        "langkah": [
+          "Panaskan minyak sayur, tumis bawang putih hingga harum.",
+          "Tambahkan cabai merah, cabai hijau, dan tauco. Aduk rata.",
+          "Masukkan wortel, kangkung, bawang daun, saus tiram, gula, dan garam. Aduk kembali.",
+          "Masak hingga sayuran setengah matang, cek rasa.",
+          "Sayur Cah Kangkung siap disajikan."
+        ],
+        "waktu_masak": "15 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Mudah"
+      },
+      {
+        "id": 8,
+        "nama": "Sayur Nangka Muda",
+        "gambar": "https://th.bing.com/th/id/OIP.9OD52um9do-kk_tNOp9zoAHaEX?w=275&h=183&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "300 gr nangka muda, potong kecil",
+          "100 gr udang, kupas kulitnya",
+          "2 lembar daun salam",
+          "2 batang serai, memarkan",
+          "3 lembar daun jeruk",
+          "1 sdm terasi",
+          "2 sdm minyak kelapa",
+          "2 lembar daun kunyit",
+          "2 buah cabai merah, iris serong",
+          "3 buah cabai hijau, iris serong",
+          "2 cm lengkuas, memarkan",
+          "3 cm jahe, memarkan",
+          "1 liter santan kelapa",
+          "Garam dan gula secukupnya"
+        ],
+        "langkah": [
+          "Panaskan minyak kelapa, tumis jahe, lengkuas, daun salam, daun jeruk, dan terasi hingga harum.",
+          "Tambahkan cabai merah, cabai hijau, serai, dan daun kunyit. Aduk rata.",
+          "Masukkan udang, nangka muda, santan kelapa, garam, dan gula. Aduk kembali.",
+          "Masak hingga nangka empuk dan bumbu meresap, cek rasa.",
+          "Sayur Nangka Muda siap disajikan."
+        ],
+        "waktu_masak": "30 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Mudah"
+      },
+      {
+        "id": 9,
+        "nama": "Tumis Buncis",
+        "gambar": "https://th.bing.com/th/id/OIP.HdAXCArQko6X-FzVRpt5NwHaDR?w=274&h=154&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "200 gr buncis, potong-potong",
+          "1 wortel, iris tipis",
+          "1 bawang bombay, iris tipis",
+          "2 siung bawang putih, cincang halus",
+          "1 sdm saus tiram",
+          "1 sdm kecap manis",
+          "1/2 sdt merica",
+          "1/2 sdt garam",
+          "2 sdm minyak sayur untuk menumis"
+        ],
+        "langkah": [
+          "Panaskan minyak sayur, tumis bawang putih hingga harum.",
+          "Tambahkan bawang bombay, tumis hingga layu.",
+          "Masukkan buncis, wortel, saus tiram, kecap manis, garam, dan merica. Aduk rata.",
+          "Tumis hingga buncis matang, cek rasa.",
+          "Tumis Buncis siap disajikan."
+        ],
+        "waktu_masak": "15 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Mudah"
+      },
+      {
+        "id": 10,
+        "nama": "Sayur Bening Sawi",
+        "gambar": "https://th.bing.com/th/id/OIP.6MZyW9W-X2Ov6AfBG510pgAAAA?w=270&h=187&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "300 gr sawi hijau, potong-potong",
+          "2 wortel, potong serong",
+          "1 jagung manis, potong-potong",
+          "2 siung bawang putih, cincang halus",
+          "2 lembar daun salam",
+          "2 batang serai, memarkan",
+          "2 cm lengkuas, memarkan",
+          "1 liter air",
+          "Gula, garam, dan kaldu bubuk secukupnya"
+        ],
+        "langkah": [
+          "Rebus air, tambahkan daun salam, serai, dan lengkuas.",
+          "Masukkan wortel, jagung, dan bawang putih. Aduk rata.",
+          "Tambahkan sawi hijau, masak hingga layu.",
+          "Berikan gula, garam, dan kaldu bubuk secukupnya. Aduk kembali.",
+          "Sayur Bening Sawi siap disajikan."
+        ],
+        "waktu_masak": "20 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Mudah"
+      }      
+]

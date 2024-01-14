@@ -1,0 +1,41 @@
+name: resep_makanan
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.8
+  url_launcher: ^6.0.13
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  #flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/olahan_ayam.jpg
+    - assets/images/olahan_daging.jpg
+    - assets/images/olahan_ikan.jpg
+    - assets/images/olahan_sayur.jpg
+    - assets/images/olahan_seafood.png
+    - assets/images/olahan_telur.png
+    - assets/images/icon.png
+    - assets/images/home.jpeg
+
+    - assets/images/background.jpg
+    - assets/data/olahanayam.json
+    - assets/data/olahandaging.json
+    - assets/data/olahanikan.json
+    - assets/data/olahansayur.json
+    - assets/data/olahantelur.json
+    - assets/data/olahanseafood.json
+
+    - assets/fonts/Poppins-SemiBold.ttf

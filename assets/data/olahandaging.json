@@ -1,0 +1,249 @@
+[
+    {
+        "id": 1,
+        "nama": "Daging Sapi Balado",
+        "gambar": "https://th.bing.com/th/id/OIP.je2XQk5sTYT9od5Mn5WrtwAAAA?w=297&h=210&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "500 gr daging sapi, potong dadu",
+          "5 buah cabai merah besar",
+          "10 buah cabai rawit (sesuai selera pedas)",
+          "5 siung bawang merah",
+          "3 siung bawang putih",
+          "2 buah tomat",
+          "2 lembar daun jeruk",
+          "1 batang serai, memarkan",
+          "1 ruas lengkuas, memarkan",
+          "Gula, garam, dan minyak secukupnya"
+        ],
+        "langkah": [
+          "Tumis bawang merah dan bawang putih hingga harum.",
+          "Masukkan cabai merah, cabai rawit, tomat, daun jeruk, serai, dan lengkuas. Aduk rata.",
+          "Tambahkan daging sapi, gula, dan garam. Aduk hingga daging berubah warna.",
+          "Tambahkan air secukupnya dan masak hingga daging empuk dan bumbu meresap. Daging Sapi Balado siap disajikan."
+        ],
+        "waktu_masak": "1 Jam",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 2,
+        "nama": "Daging Sapi Rendang",
+        "gambar": "https://th.bing.com/th/id/OIP.sryQGQ4sjWC8bXYy3yR2OgHaGA?w=215&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "500 gr daging sapi, potong kotak",
+          "2 lembar daun salam",
+          "2 batang serai, memarkan",
+          "4 lembar daun jeruk",
+          "3 lembar kelapa kering, sangrai",
+          "1 liter santan",
+          "2 buah asam kandis",
+          "Gula, garam, dan air asam jawa secukupnya"
+        ],
+        "langkah": [
+          "Rebus santan, daun salam, serai, dan daun jeruk hingga mendidih.",
+          "Masukkan daging sapi. Aduk rata.",
+          "Tambahkan kelapa kering sangrai, asam kandis, gula, garam, dan air asam jawa. Aduk kembali.",
+          "Masak hingga daging empuk dan bumbu meresap. Daging Sapi Rendang siap disajikan."
+        ],
+        "waktu_masak": "3 Jam",
+        "porsi": "6 porsi",
+        "tingkat_kesulitan": "Sulit"
+      },
+      {
+        "id": 3,
+        "nama": "Daging Sapi Gulai",
+        "gambar": "https://th.bing.com/th/id/OIP.SYJE08f-9nFxboUfLuFSJAHaHa?w=182&h=182&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "500 gr daging sapi, potong kotak",
+          "2 lembar daun salam",
+          "2 batang serai, memarkan",
+          "4 lembar daun jeruk",
+          "2 buah kentang, potong dadu",
+          "200 ml santan kental",
+          "Gula, garam, dan air secukupnya"
+        ],
+        "langkah": [
+          "Rebus daging sapi hingga setengah matang.",
+          "Masukkan santan, daun salam, serai, dan daun jeruk. Aduk rata.",
+          "Tambahkan kentang, gula, dan garam. Masak hingga daging dan kentang empuk.",
+          "Sajikan Daging Sapi Gulai hangat."
+        ],
+        "waktu_masak": "2 Jam",
+        "porsi": "5 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 4,
+        "nama": "Daging Sapi Bumbu Bali",
+        "gambar": "https://th.bing.com/th/id/OIP.pv2ximfJ3u5iEzoq9DoYAQHaFj?w=218&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "500 gr daging sapi, potong tipis",
+          "5 buah cabai merah besar",
+          "3 buah cabai rawit",
+          "4 siung bawang merah",
+          "3 siung bawang putih",
+          "1 ruas kencur",
+          "1 sdm terasi",
+          "1 sdt gula",
+          "Garam dan minyak secukupnya"
+        ],
+        "langkah": [
+          "Tumis bawang merah, bawang putih, cabai merah, cabai rawit, dan kencur hingga harum.",
+          "Tambahkan terasi, gula, dan garam. Aduk rata.",
+          "Masukkan daging sapi, masak hingga daging matang dan bumbu meresap.",
+          "Sajikan Daging Sapi Bumbu Bali dengan nasi hangat."
+        ],
+        "waktu_masak": "1 Jam",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 5,
+        "nama": "Daging Sapi Kari",
+        "gambar": "https://th.bing.com/th/id/OIP.hijFZm37xT9cFTH1TvzPngHaFj?w=276&h=207&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "500 gr daging sapi, potong dadu",
+          "2 lembar daun salam",
+          "2 batang serai, memarkan",
+          "3 lembar daun jeruk",
+          "200 ml santan encer",
+          "2 buah kentang, potong dadu",
+          "1 wortel, potong dadu",
+          "2 sendok makan bubuk kari",
+          "Gula, garam, dan minyak secukupnya"
+        ],
+        "langkah": [
+          "Tumis bubuk kari hingga harum. Tambahkan daun salam, serai, dan daun jeruk.",
+          "Masukkan daging sapi, aduk hingga berubah warna.",
+          "Tambahkan santan encer, kentang, wortel, gula, dan garam. Aduk rata.",
+          "Masak hingga daging dan sayuran empuk. Daging Sapi Kari siap disajikan."
+        ],
+        "waktu_masak": "2 Jam",
+        "porsi": "6 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 6,
+        "nama": "Daging Sapi Black Pepper",
+        "gambar": "https://th.bing.com/th/id/OIP.0DIsUVn7RWS5uxBbXnfDmwHaEJ?w=271&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "500 gr daging sapi, potong tipis",
+          "3 sendok makan saus tiram",
+          "2 sendok makan kecap manis",
+          "1 sendok makan kecap inggris",
+          "1 sendok teh merica bubuk",
+          "2 buah paprika (merah dan kuning), potong dadu",
+          "1 buah bawang bombay, potong dadu",
+          "4 siung bawang putih, cincang",
+          "Garam dan minyak secukupnya"
+        ],
+        "langkah": [
+          "Tumis bawang putih hingga harum. Masukkan daging sapi, aduk hingga berubah warna.",
+          "Tambahkan saus tiram, kecap manis, kecap inggris, merica bubuk, garam, dan bawang bombay. Aduk rata.",
+          "Masukkan paprika, masak hingga sayuran sedikit layu.",
+          "Sajikan Daging Sapi Black Pepper selagi hangat."
+        ],
+        "waktu_masak": "30 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 7,
+        "nama": "Daging Sapi Teriyaki",
+        "gambar": "https://th.bing.com/th/id/OIP.qhiUgB4NQZ5vvhUFtoH1dgAAAA?w=222&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "500 gr daging sapi, potong tipis",
+          "1/2 cup kecap manis",
+          "1/4 cup mirin",
+          "1/4 cup sake",
+          "3 sendok makan gula",
+          "1 sendok makan minyak wijen",
+          "2 cm jahe, parut",
+          "Bawang putih bubuk dan lada hitam secukupnya",
+          "Minyak secukupnya untuk menumis"
+        ],
+        "langkah": [
+          "Campur kecap manis, mirin, sake, gula, minyak wijen, jahe, bawang putih bubuk, dan lada hitam dalam mangkuk.",
+          "Panaskan minyak, tumis daging sapi hingga berubah warna.",
+          "Tambahkan campuran saus teriyaki, aduk rata hingga daging matang dan bumbu meresap.",
+          "Sajikan Daging Sapi Teriyaki dengan nasi hangat."
+        ],
+        "waktu_masak": "25 Menit",
+        "porsi": "3-4 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 8,
+        "nama": "Daging Sapi Tomat",
+        "gambar": "https://th.bing.com/th/id/OIP.NNEFu0BDIJ7HERsQphfV4gHaEK?w=315&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "500 gr daging sapi, potong kubus",
+          "5 buah tomat, potong dadu",
+          "2 buah wortel, potong dadu",
+          "1 buah bawang bombay, cincang",
+          "3 sendok makan saus tomat",
+          "2 sendok makan kecap manis",
+          "1 sendok makan kecap inggris",
+          "Garam, merica, dan minyak secukupnya"
+        ],
+        "langkah": [
+          "Tumis bawang bombay hingga harum. Masukkan daging sapi, aduk hingga berubah warna.",
+          "Tambahkan tomat, wortel, saus tomat, kecap manis, kecap inggris, garam, dan merica. Aduk rata.",
+          "Masak hingga daging dan sayuran matang. Sajikan Daging Sapi Tomat hangat."
+        ],
+        "waktu_masak": "40 Menit",
+        "porsi": "4-5 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 9,
+        "nama": "Daging Sapi Lada Hitam",
+        "gambar": "https://th.bing.com/th/id/OIP.g0003xwKWxpzEAGs6te9OwHaFP?w=266&h=187&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "500 gr daging sapi, potong tipis",
+          "2 sendok makan saus tiram",
+          "1 sendok makan kecap manis",
+          "1 sendok teh lada hitam bubuk",
+          "1 buah paprika merah, potong dadu",
+          "1 buah paprika hijau, potong dadu",
+          "1 buah bawang bombay, potong dadu",
+          "3 siung bawang putih, cincang",
+          "Garam dan minyak secukupnya"
+        ],
+        "langkah": [
+          "Tumis bawang putih hingga harum. Masukkan daging sapi, aduk hingga berubah warna.",
+          "Tambahkan saus tiram, kecap manis, lada hitam bubuk, garam, dan bawang bombay. Aduk rata.",
+          "Masukkan paprika, masak hingga sayuran sedikit layu.",
+          "Sajikan Daging Sapi Lada Hitam selagi hangat."
+        ],
+        "waktu_masak": "35 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 10,
+        "nama": "Daging Sapi Green Curry",
+        "gambar": "https://th.bing.com/th/id/OIP.sCacRBnPfjEnJMFsKlA12wHaE6?w=300&h=199&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "500 gr daging sapi, potong tipis",
+          "400 ml santan kental",
+          "2 sendok makan pasta green curry",
+          "1 batang serai, memarkan",
+          "2 lembar daun jeruk",
+          "1 buah terong ungu, potong dadu",
+          "1 buah labu siam, potong dadu",
+          "2 sendok makan minyak sayur",
+          "Garam dan gula secukupnya"
+        ],
+        "langkah": [
+          "Panaskan minyak sayur, tumis pasta green curry hingga harum.",
+          "Tambahkan daging sapi, aduk hingga berubah warna.",
+          "Masukkan santan kental, serai, dan daun jeruk. Aduk rata.",
+          "Tambahkan terong dan labu siam. Masak hingga sayuran matang.",
+          "Beri garam dan gula secukupnya. Daging Sapi Green Curry siap disajikan."
+        ],
+        "waktu_masak": "40 Menit",
+        "porsi": "4-5 porsi",
+        "tingkat_kesulitan": "Sedang"
+      }           
+]

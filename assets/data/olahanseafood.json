@@ -1,0 +1,157 @@
+[
+    {
+        "id": 1,
+        "nama": "Udang Saus Padang",
+        "gambar": "https://th.bing.com/th/id/OIP.Leiu_j9m7qyfN2S4czKLFAHaJQ?w=151&h=189&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "bahan": [
+          "300 gram udang, bersihkan dan buang kepala serta kulitnya",
+          "2 sdm saus Padang",
+          "3 siung bawang putih, cincang halus",
+          "1 buah bawang bombay, iris tipis",
+          "2 buah cabai merah besar, iris serong",
+          "1 sdm kecap manis",
+          "1 sdm saus tiram",
+          "1/2 sdt gula",
+          "Garam secukupnya",
+          "2 sdm minyak untuk menumis"
+        ],
+        "langkah": [
+          "Panaskan minyak, tumis bawang putih hingga harum.",
+          "Masukkan bawang bombay dan cabai merah besar, tumis hingga layu.",
+          "Tambahkan udang, aduk rata.",
+          "Masukkan saus Padang, kecap manis, saus tiram, gula, dan garam. Aduk hingga udang matang dan bumbu meresap.",
+          "Udang Saus Padang siap disajikan."
+        ],
+        "waktu_masak": "20 Menit",
+        "porsi": "2 porsi",
+        "tingkat_kesulitan": "Sederhana"
+      },
+      {
+        "id": 2,
+        "nama": "Sate Lilit Bali",
+        "gambar": "https://i.ytimg.com/vi/LuNuindkPVk/maxresdefault.jpg",
+        "bahan": [
+          "300 gram daging ikan tenggiri, giling halus",
+          "100 gram kelapa parut, sangrai",
+          "1 batang serai, ambil bagian putihnya, memarkan",
+          "2 lembar daun jeruk, iris halus",
+          "3 cm lengkuas, memarkan",
+          "1 sdm air asam jawa",
+          "Garam dan gula secukupnya",
+          "Bambu untuk tusuk sate"
+        ],
+        "langkah": [
+          "Campurkan daging ikan, kelapa parut, serai, daun jeruk, lengkuas, air asam jawa, garam, dan gula. Aduk rata.",
+          "Ambil sedikit adonan, lilitkan pada tusuk sate dari bambu.",
+          "Panggang sate lilit hingga matang dan kecokelatan.",
+          "Sate Lilit Bali siap disajikan."
+        ],
+        "waktu_masak": "25 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Sederhana"
+      },
+      {
+        "id": 3,
+        "nama": "Lobster Thermidor",
+        "gambar": "https://th.bing.com/th/id/OIP.8QG4UfH0hcVWsb0BBKrkmwHaHa?w=171&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "bahan": [
+          "2 ekor lobster, kupas dagingnya",
+          "100 gram udang, kupas kulitnya",
+          "1/4 cangkir cognac",
+          "1/2 cangkir kaldu udang",
+          "1/2 cangkir krim kental",
+          "2 sdm mentega",
+          "1 sdm minyak zaitun",
+          "2 siung bawang putih, cincang halus",
+          "2 sdm tepung terigu",
+          "1/2 cangkir keju parmesan, parut",
+          "2 sdm parsley, cincang halus",
+          "Garam, lada, dan pala secukupnya"
+        ],
+        "langkah": [
+          "Panaskan mentega dan minyak zaitun, tumis bawang putih hingga harum.",
+          "Tambahkan tepung terigu, aduk hingga berwarna kecokelatan.",
+          "Tuangkan cognac dan kaldu udang secara perlahan sambil terus diaduk.",
+          "Masukkan krim kental dan keju parmesan, aduk hingga meleleh.",
+          "Tambahkan udang dan lobster, masak hingga seafood matang dan saus mengental.",
+          "Bumbui dengan garam, lada, dan pala. Taburi dengan parsley sebelum disajikan."
+        ],
+        "waktu_masak": "40 Menit",
+        "porsi": "2 porsi",
+        "tingkat_kesulitan": "Tinggi"
+      },
+      {
+        "id": 4,
+        "nama": "Sushi Sashimi Assortment",
+        "gambar": "https://th.bing.com/th/id/OIP.ogSwTUk85xjQNm4wKCKcIQHaHa?rs=1&pid=ImgDetMain",
+        "bahan": [
+          "300 gram ikan segar (salmon, tuna, atau jenis ikan sushi lainnya)",
+          "200 gram udang segar, bersihkan",
+          "250 gram nasi sushi",
+          "Wasabi secukupnya",
+          "Kecap asin",
+          "Saus kedelai",
+          "Acar jahe (gari)",
+          "Daun nori (rumput laut panggang)",
+          "Air untuk merebus dan membersihkan ikan"
+        ],
+        "langkah": [
+          "Potong ikan dan udang menjadi irisan tipis untuk sashimi.",
+          "Siapkan nasi sushi dan daun nori.",
+          "Susun nasi pada selembar nori, tambahkan irisan ikan atau udang di atasnya.",
+          "Gulung dengan rapat menggunakan mat sushi.",
+          "Potong roll sushi menjadi beberapa bagian.",
+          "Sajikan sushi dan sashimi dengan wasabi, kecap asin, saus kedelai, dan acar jahe."
+        ],
+        "waktu_masak": "60 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Tinggi"
+      },
+      {
+        "id": 5,
+        "nama": "Ceviche",
+        "gambar": "https://th.bing.com/th/id/OIP.H3LxeubRZHRvG9r7HiDiRwHaFs?w=255&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "bahan": [
+          "500 gram ikan segar (misalnya, tenggiri, salmon, atau sea bass), potong dadu kecil",
+          "5 buah jeruk nipis, peras airnya",
+          "2 buah cabai merah besar, iris tipis",
+          "1 buah bawang bombay, cincang halus",
+          "1 ikat daun ketumbar, cincang halus",
+          "1 buah tomat, buang bijinya, potong dadu kecil",
+          "Garam dan merica secukupnya",
+          "Minyak zaitun secukupnya"
+        ],
+        "langkah": [
+          "Campurkan potongan ikan dengan air jeruk nipis, biarkan selama 15-20 menit hingga ikan terkena asam.",
+          "Tambahkan cabai, bawang bombay, daun ketumbar, dan tomat ke dalam campuran ikan.",
+          "Bumbui dengan garam dan merica sesuai selera.",
+          "Sajikan ceviche yang segar dengan taburan daun ketumbar dan sedikit minyak zaitun."
+        ],
+        "waktu_masak": "30 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Tinggi"
+      },
+      {
+        "id": 6,
+        "nama": "Grilled Octopus",
+        "gambar": "https://th.bing.com/th/id/OIP.epMSaij2vLpnXC0vgru_rwHaFJ?w=254&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "bahan": [
+          "1 ekor gurita segar, bersihkan dan potong menjadi bagian-bagian kecil",
+          "4 siung bawang putih, cincang halus",
+          "1 batang rosemary segar",
+          "2 lembar daun salam",
+          "2 sdm minyak zaitun",
+          "Garam dan merica hitam secukupnya"
+        ],
+        "langkah": [
+          "Rebus gurita dalam air mendidih selama 30-40 menit hingga empuk, lalu angkat dan tiriskan.",
+          "Campur gurita dengan bawang putih, rosemary, daun salam, minyak zaitun, garam, dan merica hitam.",
+          "Panaskan panggangan atau grill, bakar gurita hingga matang dan kecokelatan di luar.",
+          "Sajikan gurita panggang hangat."
+        ],
+        "waktu_masak": "45 Menit",
+        "porsi": "2 porsi",
+        "tingkat_kesulitan": "Tinggi"
+      }
+      
+]

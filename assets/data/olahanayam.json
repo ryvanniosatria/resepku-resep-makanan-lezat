@@ -1,0 +1,438 @@
+[
+    {
+      "id": 1,
+      "nama": "Ayam kecap",
+      "gambar": "https://www.rukita.co/stories/wp-content/uploads/2021/01/resep-ayam-kecap.png",
+      "bahan": [
+        "300 gr ayam potong",
+        "2 siung bawang putih",
+        "1 ruas jahe",
+        "200 ml air",
+        "5 buah cabai rawit",
+        "2 butir bawang merah",
+        "Merica bubuk secukupnya",
+        "2 sdm kecap manis",
+        "Minyak goreng secukupnya",
+        "1 sdt gula pasir",
+        "Garam secukupnya"
+      ],
+      "langkah": [
+        "Goreng ayam setengah matang, tiriskan.",
+        "Tumis bawang merah dan bawang putih, tambahkan jahe memar, irisan cabai hingga harum.",
+        "Beri garam dan merica bubuk, lalu tuang air.",
+        "Setelah mendidih, masukkan ayam. Tambahkan kecap dan gula pasir secukupnya.",
+        "Masak sampai ayam matang dan kuah menyusut hingga separuhnya."
+      ],
+      "waktu_masak": "45 Menit",
+      "porsi": "2 porsi",
+      "tingkat_kesulitan": "Mudah"
+    },
+    {
+      "id": 2,
+      "nama": "Ayam goreng bawang putih pedas manis.",
+      "gambar": "https://img-global.cpcdn.com/recipes/9ab84b78fd2681f3/751x532cq70/ayam-goreng-bawang-putih-khas-batam-foto-resep-utama.jpg",
+      "bahan": [
+        " 300 gr dada ayam, potong-potong",
+        " 2 sdm tepung maizena",
+        " 1 butir telur",
+        " 1 sdm tepung terigu",
+        " 1 sdt garam",
+        "Garam secukupnya",
+        "Bumbu pedas manis",
+        " 6 siung bawang putih, geprak, tak perlu dibuang kulitnya",
+        " 4 buah cabai merah kering, haluskan beberapa",
+        " 1 sdm madu",
+        " 2 siung bawang merah, haluskan",
+        " 2 sdm gula pasir",
+        " 1 sdm margarin"
+      ],
+      "langkah": [
+        "Campur semua tepung, garam, dan telur. Rendam ayam dan biarkan selama 30 menit.",
+        "Goreng ayam hingga kecokelatan, tiriskan.",
+        "Tumis bawang putih sampai kering dan matang. Masukkan margarin, tumis bawang merah hingga harum. Masukkan gula pasir, cabai kering dan madu.",
+        "Masukkan ayam goreng dan aduk rata dengan bumbu."
+        
+      ],
+      "waktu_masak": "30 Menit",
+      "porsi": "2 porsi",
+      "tingkat_kesulitan": "Mudah"
+    },
+    {
+        "id": 3,
+        "nama": "Ayam teriyaki",
+        "gambar": "https://sweetrip.id/wp-content/uploads/2020/09/szaleha82_119048961_123122709505186_3444458572946260868_n.jpg",
+        "bahan": [
+            " 300 gr daging ayam, potong-potong",
+            " 1 buah jeruk nipis",
+            " 1 buah brokoli, potong-potong",
+            " 2 siung bawang putih, cincang",
+            " 1/2 sdt merica bubuk",
+            " garam dan gula secukupnya",
+            " 1/2 siung bawang bombay",
+            " 2 sdm saus tiram",
+            " 2 sdm saus teriyaki",
+            " 1 sdm tepung maizena"
+        ],
+        "langkah": [
+            "Campur air jeruk nipis dan ayam, diamkan 15 menit, bilas bersih. Sisihkan.",
+            "Rebus brokoli setengah matang, tiriskan.",
+            "Tumis bawang putih dan bawang bombay. Masukkan ayam dan tumis hingga berubah warna.",
+            "Tuang saus tiram, saus teriyaki, dan beri merica bubuk. Aduk rata. Masukkan brokoli dan aduk rata.",
+            "Tuang tepung maizena yang sudah dicampur air secukupnya. Aduk rata hingga mengental. Beri gula dan garam secukupnya."
+          
+        ],
+        "waktu_masak": "30 Menit",
+        "porsi": "2 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 4,
+        "nama": "Ayam bakar bumbu Padang.",
+        "gambar": "https://i.pinimg.com/originals/8e/50/c4/8e50c4a61dbdbf7c82657212e52965de.jpg",
+        "bahan": [
+            " 4 potong paha ayam",
+            " 1 lembar daun kunyit",
+            " 150 ml santan kelapa",
+            " 1 buah jeruk nipis, ambil air perasannya",
+            " 3 lembar daun salam",
+            " minyak goreng dan kaldu bubuk secukupnya",
+            " 4 lembar daun jeruk",
+            " 4 siung bawang putih",
+            " 1 cm kunyit",
+            " 2 batang serai, ambil bagian putihnya",
+            " 8 siung bawang merah",
+            " 1 1/2 sdt ketumbar",
+            " 1 ruas jahe",
+            " garam secukupnya",
+            " 2 ruas lengkuas",
+            " 4 buah cabai merah",
+            " 3 butir kemiri"
+            
+        ],
+        "langkah": [
+            "Cuci bersih daging ayam, kucuri dengan air perasan jeruk nipis, diamkan 20 menit, lalu bilas hingga bersih.",
+            "Tumis bumbu halus, tambahkan kunyit, daun salam, dan daun jeruk. Tuang kaldu bubuk dan santan. Aduk rata.",
+            "Masukkan ayam, masak hingga bumbu meresap dan daging empuk.",
+            "Panggang ayam ke atas teflon atau pemanggang."
+                        
+          
+        ],
+        "waktu_masak": "50 Menit",
+        "porsi": " 3 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 5,
+        "nama": "Ayam Bakar Madu",
+        "gambar": "https://1.bp.blogspot.com/-B58ncVTOYWU/Xh28W2KNKcI/AAAAAAAAAc0/BAA0ahUxCocuU57KelxDa7zPCtcBOj1qwCLcBGAsYHQ/s1600/ayam%2Bbakar%2Bmadu.jpeg",
+        "bahan": [
+          "6 potong sayap ayam",
+          "4 sdm minyak goreng",
+          "4 sdm madu",
+          "6 siung bawang merah",
+          "1/2 sdt lada bubuk",
+          "1 sdt garam",
+          "3 siung bawang putih",
+          "1/2 sdt ketumbar",
+          "1 sdm kecap asin",
+          "1 ruas jahe",
+          "air secukupnya",
+          "1 sdm kecap manis"
+        ],
+        "langkah": [
+          "Masak ungkep ayam dengan bumbu haluskan sampai matang. Angkat dan biarkan dingin.",
+          "Oleskan madu dan minyak goreng pada ayam.",
+          "Bakar ayam sampai berwarna cokelat kehitaman di bagian luar."
+        ],
+        "waktu_masak": "40 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 6,
+        "nama": "Serundeng Ayam",
+        "gambar": "https://1.bp.blogspot.com/-r8uLZogz8w0/XG4NIMSaQ0I/AAAAAAAAC8U/V3XKqY8PPM8g6y6fJflwfwDnzIjaJHzcACLcBGAs/s1600/40302271_696710960696088_915136830276741825_n.jpg",
+        "bahan": [
+          "1 kg daging ayam, potong jadi 10 bagian",
+          "1 lembar daun salam",
+          "1 cm lengkuas",
+          "1 batang serai, memarkan",
+          "2 lembar daun jeruk",
+          "kelapa parut, dari satu buah kelapa",
+          "6 siung bawang putih",
+          "1 ruas kunyit",
+          "3 siung bawang merah",
+          "3 butir kemiri",
+          "1 ruas jahe",
+          "2 sdt ketumbar",
+          "1 sdt gula jawa",
+          "1 sdt garam",
+          "500 ml air",
+          "penyedap masakan secukupnya"
+        ],
+        "langkah": [
+          "Cuci bersih ayam lalu rebus hingga matang, tiriskan.",
+          "Tumis bumbu halus, masukkan batang serai, daun salam, daun jeruk dan lengkuas, aduk rata. Tuang air masak sampai mendidih.",
+          "Masukkan daging ayam lalu ungkep bersama bumbu hingga air menyusut.",
+          "Masukkan parutan kelapa. Masak hingga air asat. Angkat.",
+          "Goreng ayam bersama serundeng hingga matang dan berwarna kecokelatan."
+        ],
+        "waktu_masak": "90 Menit",
+        "porsi": "5 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 7,
+        "nama": "Ayam Geprek",
+        "gambar": "https://3.bp.blogspot.com/-Ufs-Z6pmhgY/Wm3bNyjYgJI/AAAAAAAAAHg/Ud59nv0DMSo7BsZrFeqMykgP2Us8JUBUQCK4BGAYYCw/s1600/ayam-geprek.jpg",
+        "bahan": [
+          "1/2 ekor daging ayam",
+          "8 butir bawang merah",
+          "1/2 buah jeruk nipis",
+          "100 gr cabai ijo keriting",
+          "Minyak kelapa",
+          "1 siung bawang putih",
+          "Garam dan gula"
+        ],
+        "langkah": [
+          "Cuci bersih ayam, ungkep bersama bumbu selama 1 jam. Lalu goreng hingga kecokelatan.",
+          "Ulek kasar cabai ijo, bawang merah, dan bawang putih. Kucuri sedikit air perasan jeruk nipis. Tumis sebentar dengan minyak kelapa. Beri gula dan garam secukupnya.",
+          "Taruh sambal cabai hijau di atas ayam, geprek ayam goreng."
+        ],
+        "waktu_masak": "90 Menit",
+        "porsi": "2 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 8,
+        "nama": "Ayam Taliwang",
+        "gambar": "https://th.bing.com/th/id/OIP.aBj9ngp-Fxl6W8oEPXnuAAHaFP?w=284&h=201&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "bahan": [
+          "1 ekor ayam potong, potong jadi empat bagian",
+          "1 sdm gula merah, sisir",
+          "2 sdm kecap manis",
+          "Garam dan air secukupnya"
+        ],
+        "langkah": [
+          "Tumis bumbu halus. Masukkan ayam masak sambil diaduk hingga ayam berubah warna.",
+          "Tuang air secukupnya. Masukkan gula dan garam. Masak hingga ayam empuk dan air habis.",
+          "Panggang ayam bersama bumbu hingga kering dan terpanggang sempurna."
+        ],
+        "waktu_masak": "60 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 9,
+        "nama": "Ayam Gulai",
+        "gambar": "https://th.bing.com/th/id/OIP.XDJsiWtJ8ygB2uCgNKvz4gAAAA?pid=ImgDet&rs=1",
+        "bahan": [
+          "1/2 ekor ayam",
+          "2 lembar daun salam",
+          "200 ml santan encer",
+          "Air matang secukupnya",
+          "1 buah jeruk nipis",
+          "Garam dan kaldu bubuk secukupnya",
+          "1 batang serai geprek",
+          "2 lembar daun jeruk",
+          "200 ml santan kental"
+        ],
+        "langkah": [
+          "Cuci bersih ayam lalu kucuri jeruk nipis, diamkan 10 menit.",
+          "Tumis bumbu halus, masukkan daun salam, daun jeruk, dan serai, aduk.",
+          "Masukkan ayam, masak sampai berubah warna. Beri garam dan kaldu. Aduk rata.",
+          "Tuang santan encer dan air, masak sampai ayam empuk.",
+          "Tunggu sampai kuah menyusut dan ayam empuk. Tuang santan kental, masak sambil terus diaduk sampai santan mendidih."
+        ],
+        "waktu_masak": "60 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 10,
+        "nama": "Semur Ayam",
+        "gambar": "https://th.bing.com/th/id/OIP.iH3ro1ADXQF28Jy9XiFpWQAAAA?w=258&h=182&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "1 ekor ayam, potong jadi 12 bagian",
+          "1 sdt pala bubuk",
+          "1 sdm garam",
+          "4 butir kemiri yang disangrai",
+          "300 gr kentang, potong-potong",
+          "4 buah tahu kotak kecil, potong miring jadi 2 bagian",
+          "6 butir bawang merah",
+          "3 siung bawang putih",
+          "3 cm kayu manis",
+          "1/2 sdt ketumbar yang disangrai",
+          "1 cm jahe",
+          "2 sdm minyak goreng",
+          "1/2 sdt air perasan jeruk nipis",
+          "1/2 sdm garam",
+          "1/2 sdt merica bubuk",
+          "1000 ml air",
+          "2 lembar daun salam",
+          "6 buah cengkeh",
+          "2 buah tomat yang dipotong-potong",
+          "150 ml kecap manis"
+        ],
+        "langkah": [
+          "Cuci bersih daging ayam. Kemudian lumuri dengan air jeruk nipis dan garam. Diamkan selama 15 menit. Goreng ayam.",
+          "Tumis bawang merah, bawang putih, kemiri, jahe, dan pala yang sudah dihaluskan. Tambahkan daun salam, cengkeh, serta kayu manis. Masukkan potongan tomat, aduk sampai rata dan matang.",
+          "Masukkan daging ayam, aduk sampai bumbu meresap.",
+          "Masukkan potongan kentang dan tahu. Aduk rata lagi.",
+          "Tambahkan 150 ml kecap manis, garam, serta merica bubuk. Aduk.",
+          "Tuangkan air, masak hingga daging empuk dan kuahnya sedikit mengental."
+        ],
+        "waktu_masak": "90 Menit",
+        "porsi": "6 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 11,
+        "nama": "Ayam Goreng Lengkuas",
+        "gambar": "https://th.bing.com/th/id/OIP.4-PLcgVbkaPxXSeaq9RSAgHaFP?pid=ImgDet&rs=1",
+        "bahan": [
+          "1 kg ayam, cuci bersih dan potong sesuai selera",
+          "4 lembar daun jeruk",
+          "100 gr lengkuas, parut",
+          "1 ruas kunyit, parut",
+          "1 ruas ibu jari jahe, parut",
+          "1 sdt garam",
+          "1 sdt kaldu jamur rasa ayam",
+          "300 ml air"
+        ],
+        "langkah": [
+          "Masukkan ayam dan semua bumbu lainnya, tambahkan air hingga ayam terendam. Aduk rata.",
+          "Biarkan air menyusut. Cek rasa, matikan api.",
+          "Panaskan minyak yang banyak di dalam wajan, goreng ayam hingga matang. Angkat, kemudian lanjutkan menggoreng bumbu lengkuasnya. Jangan menggoreng ayam dan bumbu secara bersamaan karena bumbu akan lebih mudah gosong.",
+          "Sajikan."
+        ],
+        "waktu_masak": "60 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 12,
+        "nama": "Nugget Ayam",
+        "gambar": "https://blog.tokowahab.com/wp-content/uploads/2020/04/Resep-Nugget-Ayam.jpeg",
+        "bahan": [
+          "500 gr fillet ayam, potong kecil",
+          "2 butir telur",
+          "2 sdm sagu atau tapioka",
+          "5 siung bawang putih parut",
+          "1 sdt lada bubuk",
+          "50 gr keju parut",
+          "1/2 sdt garam",
+          "1/2 sdt gula",
+          "1 sdm kaldu jamur",
+          "Bahan celup:",
+          "50 gr terigu",
+          "75 ml air",
+          "Garam",
+          "Bahan baluran:",
+          "Tepung roti secukupnya"
+        ],
+        "langkah": [
+          "Blender ayam dan telur hingga lembut, lalu campur semua bahan, tuang di loyang diameter 16x16, alasi plastik dulu sebelumnya lalu kukus selama 30 menit dengan api sedang cenderung kecil hingga matang, biarkan dingin.",
+          "Potong-potong nugget, masukkan ke adonan basah lalu gulingkan di tepung roti, simpan di freezer. Siap digoreng."
+        ],
+        "waktu_masak": "45 Menit",
+        "porsi": "20 buah",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 13,
+        "nama": "Pepes Ayam",
+        "gambar": "https://th.bing.com/th?id=OSK.f95fa4e8bc58c12166189bbd8728eeb5&w=197&h=118&c=7&rs=2&qlt=80&o=6&cdv=1&dpr=1.1&pid=16.1",
+        "bahan": [
+          "1 kg daging ayam potong",
+          "3 lembar daun salam",
+          "2 batang serai, potong kasar dan memarkan",
+          "Daun kemangi secukupnya",
+          "Gula dan garam secukupnya",
+          "2 sdm minyak goreng",
+          "1 tangkai bawang daun, iris halus",
+          "Daun pisang secukupnya",
+          "Bumbu marinasi:",
+          "5 cm jahe dihaluskan",
+          "5 cm kunyit dihaluskan",
+          "Garam",
+          "Bumbu halus:",
+          "6 kemiri sangrai",
+          "4 siung bawang putih",
+          "7 siung bawang merah",
+          "2 ruas jari kunyit",
+          "5 cm jahe",
+          "1 sdt merica",
+          "1/2 sdt ketumbar sangrai",
+          "Garam"
+        ],
+        "langkah": [
+          "Cuci daging ayam sampai bersih, lalu lumuri dengan bumbu marinasi. Diamkan sesaat.",
+          "Panaskan minyak goreng, tumis bumbu halus sebentar saja, angkat bumbu lalu campurkan bumbu dengan daging ayam dan bahan lainnya, aduk rata.",
+          "Siapkan daun pisang, bungkus pepes dengan rapi. Kemudian kukus selama 1 jam. Setelah pepes matang, bakar sebentar saja. Sajikan."
+        ],
+        "waktu_masak": "90 Menit",
+        "porsi": "6 porsi",
+        "tingkat_kesulitan": "Sedang"
+      },
+      {
+        "id": 14,
+        "nama": "Chicken Pok Pok",
+        "gambar": "https://th.bing.com/th/id/OIP.naSRRutHYtJczCvK_ukfUAHaHa?w=202&h=202&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "350 gr dada ayam fillet",
+          "1 butir telur ayam",
+          "2 sdm tepung maizena",
+          "1 sdm krimer bubuk",
+          "Tepung serbaguna secukupnya",
+          "Bumbu marinasi:",
+          "4 siung bawang putih, parut",
+          "1/2 sdt lada bubuk",
+          "1 sdt garam",
+          "1/2 sdt penyedap jamur",
+          "3 sdm air jeruk kunci"
+        ],
+        "langkah": [
+          "Potong dadu dada ayam, lalu marinasi dengan bumbu sampai meresap.",
+          "Campur tepung maizena dan krimer, lalu balur merata ke potongan ayam.",
+          "Kocok merata telur lalu tuang ke dalam potongan ayam tepung tadi, balur merata.",
+          "Tuang tepung serbaguna ke dalam wadah, balur merata ke potongan ayam sambil sedikit diremas, lakukan sampai habis.",
+          "Panaskan minyak goreng, lalu goreng sampai golden brown, angkat dan tiriskan.",
+          "Sajikan dengan sambal."
+        ],
+        "waktu_masak": "30 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Mudah"
+      },
+      {
+        "id": 15,
+        "nama": "Ayam Lada Hitam",
+        "gambar": "https://th.bing.com/th/id/OIP.mUEjYaOeVMRblDvkjVWz0QAAAA?w=239&h=136&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "bahan": [
+          "500 gr dada ayam, potong kotak dadu",
+          "Bahan lain:",
+          "1 bawang bombay",
+          "3 siung bawang putih",
+          "1 ruas jempol jahe",
+          "1 sdm merica hitam, ulek kasar",
+          "1/2 paprika hijau",
+          "1/2 paprika merah",
+          "Garam",
+          "Kecap manis",
+          "3 sdm saus tiram",
+          "1/2 sdt gula"
+        ],
+        "langkah": [
+          "Lumuri ayam dengan jeruk nipis.",
+          "Cincang halus bawang putih dan jahe, lalu lumuri ke ayam. Taburi juga merica hitam. Biarkan sampai 15 menit.",
+          "Iris bawang bombay, lalu tumis pakai mentega dan minyak.",
+          "Setelah wangi, masukkan ayam yang sudah dimarinasi tadi.",
+          "Masak sampai ayam berubah warna, tambahkan garam dan gula pasir sedikit saja. Terus tuangkan air sebanyak 1 gelas.",
+          "Tunggu sampai agak meresap, kemudian masukkan kecap manis dan saus tiram.",
+          "Terakhir masukkan paprika, masak sebentar lalu siap dihidangkan."
+        ],
+        "waktu_masak": "30 Menit",
+        "porsi": "4 porsi",
+        "tingkat_kesulitan": "Mudah"
+      }
+  ]

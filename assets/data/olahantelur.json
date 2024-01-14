@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "nama": "Telur Gulung Sosis Keju",
+    "gambar": "https://cdn.yummy.co.id/content-images/images/20200712/SqJHPo4OuvfQr8gpt0PDRlFpepaGYuOy-31353934353135363335d41d8cd98f00b204e9800998ecf8427e_800x800.jpg",
+    "bahan": [
+      "4 butir telur",
+      "3 sendok makan susu cair",
+      "Garam dan merica secukupnya",
+      "Minyak untuk menggoreng",
+      "Sosis iris dan keju parut secukupnya"
+    ],
+    "langkah": [
+      "Kocok telur, tambahkan susu cair, garam, dan merica. Aduk rata.",
+      "Panaskan sedikit minyak di wajan datar anti lengket.",
+      "Tuang adonan telur ke wajan panas, ratakan tipis-tipis membentuk dadar.",
+      "Letakkan irisan sosis dan keju parut di atas adonan dadar.",
+      "Gulung perlahan adonan dadar seperti gulungan sushi.",
+      "Goreng dadar gulung hingga kecokelatan dan matang.",
+      "Angkat, tiriskan, dan potong sebelum disajikan."
+    ],
+    "waktu_masak": "15 Menit",
+    "porsi": "2 porsi",
+    "tingkat_kesulitan": "Mudah"
+  },
+  {
+    "id": 2,
+    "nama": "Telur Sambal Matah",
+    "gambar": "https://i.ytimg.com/vi/1jnyuGOY-Aw/maxresdefault.jpg",
+    "bahan": [
+      "6 butir telur, digoreng ceplok",
+      "5 buah cabai rawit",
+      "4 siung bawang merah",
+      "3 siung bawang putih",
+      "2 batang serai, ambil bagian putihnya",
+      "1 ruas jahe",
+      "Garam dan gula secukupnya",
+      "Minyak untuk menumis"
+    ],
+    "langkah": [
+      "Tumis bawang merah, bawang putih, cabai rawit, serai, dan jahe hingga harum.",
+      "Masukkan telur ceplok, aduk hingga telur terbalut bumbu.",
+      "Tambahkan garam dan gula sesuai selera.",
+      "Sajikan telur sambal matah dengan nasi hangat."
+    ],
+    "waktu_masak": "20 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Sederhana"
+  },
+  {
+    "id": 3,
+    "nama": "Telur Bumbu Bali",
+    "gambar": "https://th.bing.com/th/id/OIP.P4tpoSuyIjFVWbbnr43kEgHaEc?w=304&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+    "bahan": [
+      "6 butir telur, rebus dan kupas kulitnya",
+      "4 buah cabai merah",
+      "3 buah cabai rawit",
+      "5 siung bawang merah",
+      "3 siung bawang putih",
+      "1 buah tomat",
+      "1 ruas jahe",
+      "1 ruas lengkuas",
+      "1 batang serai, ambil bagian putihnya",
+      "Garam dan gula secukupnya",
+      "Minyak untuk menumis"
+    ],
+    "langkah": [
+      "Haluskan bawang merah, bawang putih, cabai merah, cabai rawit, jahe, lengkuas, dan serai.",
+      "Tumis bumbu halus hingga harum.",
+      "Masukkan potongan tomat, aduk hingga layu.",
+      "Tambahkan telur rebus, aduk hingga telur terbalut bumbu.",
+      "Koreksi rasa dengan garam dan gula sesuai selera.",
+      "Sajikan telur bumbu Bali hangat."
+    ],
+    "waktu_masak": "25 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Sederhana"
+  },
+  {
+    "id": 4,
+    "nama": "Telur Kecap Manis",
+    "gambar": "https://i1.wp.com/www.tiktak.id/wp-content/uploads/2021/06/Resep-Telur-Kecap-ala-Korea-Pelengkap-Menu-Sarapan.jpg?w=500&ssl=1",
+    "bahan": [
+      "6 butir telur, rebus dan kupas kulitnya",
+      "4 sendok makan kecap manis",
+      "3 siung bawang putih, cincang halus",
+      "1 ruas jahe, iris tipis",
+      "Garam dan merica secukupnya",
+      "Minyak untuk menumis"
+    ],
+    "langkah": [
+      "Panaskan sedikit minyak, tumis bawang putih hingga harum.",
+      "Masukkan irisan jahe, aduk sebentar.",
+      "Tambahkan telur rebus dan kecap manis, aduk hingga merata.",
+      "Bumbui dengan garam dan merica sesuai selera.",
+      "Sajikan telur kecap manis hangat."
+    ],
+    "waktu_masak": "20 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Mudah"
+  },
+  {
+    "id": 5,
+    "nama": "Telur Puyuh Balado",
+    "gambar": "https://th.bing.com/th/id/OIP.5KytoGQ6XeWgQFEs1flO4QHaFV?rs=1&pid=ImgDetMain",
+    "bahan": [
+      "12 butir telur puyuh, rebus dan kupas kulitnya",
+      "5 buah cabai merah besar",
+      "3 buah cabai rawit",
+      "4 siung bawang merah",
+      "3 siung bawang putih",
+      "1 buah tomat",
+      "1 ruas jahe",
+      "Garam dan gula secukupnya",
+      "Minyak untuk menumis"
+    ],
+    "langkah": [
+      "Tumis bawang merah, bawang putih, cabai merah, cabai rawit, dan jahe hingga harum.",
+      "Tambahkan potongan tomat, aduk hingga layu.",
+      "Masukkan telur puyuh, aduk hingga bumbu meresap ke telur.",
+      "Koreksi rasa dengan garam dan gula sesuai selera.",
+      "Sajikan telur puyuh balado hangat."
+    ],
+    "waktu_masak": "30 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Sederhana"
+  },
+  {
+    "id": 6,
+    "nama": "Telur Bistik",
+    "gambar": "https://img-global.cpcdn.com/recipes/af99b0bf8bf6478f/680x482cq70/bistik-hintalu-telur-khas-banjar-foto-resep-utama.jpg",
+    "bahan": [
+      "6 butir telur, rebus dan belah dua",
+      "200 gram daging sapi, iris tipis",
+      "1 buah bawang bombay, iris tipis",
+      "3 siung bawang putih, cincang halus",
+      "3 sendok makan kecap manis",
+      "1 sendok makan saus tiram",
+      "Garam, merica, dan kaldu bubuk secukupnya",
+      "Minyak untuk menumis"
+    ],
+    "langkah": [
+      "Tumis bawang putih hingga harum, tambahkan daging sapi, aduk hingga berubah warna.",
+      "Masukkan bawang bombay, aduk hingga layu.",
+      "Tambahkan telur rebus, kecap manis, saus tiram, garam, merica, dan kaldu bubuk. Aduk hingga merata.",
+      "Masak hingga bumbu meresap dan telur terbalut dengan baik.",
+      "Sajikan telur bistik hangat."
+    ],
+    "waktu_masak": "25 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Sederhana"
+  },
+  {
+    "id": 7,
+    "nama": "Telur Ceplok Bumbu Rendang",
+    "gambar": "https://img-global.cpcdn.com/recipes/f0d35ac08971285b/680x482cq70/telor-ceplok-bumbu-rendang-foto-resep-utama.jpg",
+    "bahan": [
+      "6 butir telur, ceplok",
+      "4 sendok makan bumbu rendang instan",
+      "3 lembar daun jeruk",
+      "2 lembar daun salam",
+      "1 batang serai, memarkan",
+      "300 ml air",
+      "Minyak untuk menumis"
+    ],
+    "langkah": [
+      "Tumis bumbu rendang hingga harum, masukkan daun jeruk, daun salam, dan serai.",
+      "Tambahkan air, masak hingga mendidih.",
+      "Letakkan telur ceplok ke dalam kuah rendang, biarkan bumbu meresap.",
+      "Sajikan telur ceplok bumbu rendang hangat."
+    ],
+    "waktu_masak": "30 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Sederhana"
+  }
+  
+]

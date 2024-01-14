@@ -1,0 +1,481 @@
+[
+{
+    "id": 1,
+    "nama": "Ikan Asam Manis",
+    "gambar": "https://th.bing.com/th/id/OIP.ucjSqKeOHBR5JjjRdvz7DAHaFj?w=221&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+    "bahan": [
+      "500 gr fillet ikan (gurame, nila, atau ikan pilihannya)",
+      "1 buah bawang bombay, iris tipis",
+      "3 siung bawang putih, cincang halus",
+      "1 buah paprika merah, potong dadu",
+      "1 buah paprika hijau, potong dadu",
+      "2 sendok makan saus tomat",
+      "3 sendok makan saus cabai",
+      "2 sendok makan kecap manis",
+      "1 sendok makan kecap asin",
+      "1 sendok makan saus ikan",
+      "1 sendok makan gula merah, serut",
+      "1 sendok teh cuka",
+      "Garam secukupnya",
+      "Merica secukupnya",
+      "Minyak untuk menumis"
+    ],
+    "langkah": [
+      "Panaskan minyak dalam wajan, tumis bawang putih hingga harum.",
+      "Masukkan bawang bombay, tumis hingga layu.",
+      "Tambahkan fillet ikan, masak hingga berubah warna.",
+      "Masukkan paprika merah dan paprika hijau, aduk rata.",
+      "Tambahkan saus tomat, saus cabai, kecap manis, kecap asin, saus ikan, gula merah serut, dan cuka. Aduk hingga rata.",
+      "Beri garam dan merica secukupnya sesuai selera. Masak hingga bahan-bahan tercampur dan ikan matang.",
+      "Angkat dan sajikan ikan asam manis dalam piring saji.",
+      "Nikmati ikan asam manis dengan nasi putih hangat."
+    ],
+    "waktu_masak": "30 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Mudah"
+  },
+  {
+    "id": 2,
+    "nama": "Ikan Balado",
+    "gambar": "https://th.bing.com/th/id/OIP.IMOQxErPKnamVMJZ5xhj7QHaE8?w=296&h=197&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+    "bahan": [
+      "500 gr fillet ikan (pilih ikan sesuai selera)",
+      "4 buah cabai merah besar",
+      "5 buah cabai rawit (sesuai selera pedas)",
+      "4 siung bawang merah",
+      "3 siung bawang putih",
+      "2 buah tomat",
+      "1 lembar daun salam",
+      "1 batang serai, memarkan",
+      "1 sendok teh garam",
+      "1 sendok makan gula",
+      "Minyak untuk menumis"
+    ],
+    "langkah": [
+      "Panaskan minyak dalam wajan, tumis bawang merah dan bawang putih hingga harum.",
+      "Tambahkan cabai merah besar, cabai rawit, tomat, daun salam, dan serai. Aduk rata.",
+      "Masukkan fillet ikan, garam, dan gula. Aduk perlahan hingga bumbu meresap dan ikan matang.",
+      "Cicipi dan sesuaikan rasa sesuai selera.",
+      "Angkat dan sajikan ikan balado dalam piring saji.",
+      "Nikmati ikan balado dengan nasi hangat."
+    ],
+    "waktu_masak": "25 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Mudah"
+  },
+  {
+    "id": 3,
+    "nama": "Ikan Bakar",
+    "gambar": "https://th.bing.com/th/id/OIP.Q9lqaYcFa80W2SHS0LzpAgHaE9?w=246&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+    "bahan": [
+      "1 ekor ikan (gurame, nila, atau ikan sesuai selera)",
+      "2 buah jeruk nipis",
+      "Garam secukupnya",
+      "Merica secukupnya",
+      "Bumbu kecap:",
+      "3 sendok makan kecap manis",
+      "2 sendok makan kecap asin",
+      "1 sendok teh saus tiram",
+      "1 sendok makan minyak wijen"
+    ],
+    "langkah": [
+      "Bersihkan ikan, lumuri dengan jeruk nipis, garam, dan merica. Diamkan sebentar.",
+      "Campur semua bahan bumbu kecap, aduk rata.",
+      "Olesi ikan dengan bumbu kecap yang sudah disiapkan, termasuk bagian perut ikan.",
+      "Bakar ikan di atas bara api atau panggangan hingga matang dan beraroma harum.",
+      "Angkat dan sajikan ikan bakar dalam piring saji.",
+      "Nikmati ikan bakar dengan nasi dan sambal matah."
+    ],
+    "waktu_masak": "30 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Mudah"
+  },
+  {
+    "id": 4,
+    "nama": "Ikan Goreng Sambal Matah",
+    "gambar": "https://th.bing.com/th/id/OIP.1xiwSRnFjPEBwNyQf3zY3wHaFP?w=266&h=187&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+    "bahan": [
+      "500 gr ikan (gurame, nila, atau ikan sesuai selera)",
+      "2 lembar daun jeruk",
+      "Minyak untuk menggoreng"
+    ],
+    "sambal_matah": [
+      "5 buah cabai rawit",
+      "4 siung bawang merah",
+      "2 siung bawang putih",
+      "1 batang serai, bagian putihnya, memarkan",
+      "1 ruas jari lengkuas",
+      "1/2 sendok teh terasi, bakar",
+      "Garam secukupnya"
+    ],
+    "langkah": [
+      "Goreng ikan hingga matang dan kulitnya menjadi crispy. Angkat dan tiriskan.",
+      "Tumis daun jeruk hingga harum, masukkan ikan goreng ke dalam tumisan. Aduk rata.",
+      "Sambal Matah: Ulek halus cabai rawit, bawang merah, bawang putih, lengkuas, dan terasi.",
+      "Tambahkan garam secukupnya, aduk rata.",
+      "Sajikan ikan goreng dengan sambal matah di atasnya.",
+      "Nikmati ikan goreng sambal matah dengan nasi hangat."
+    ],
+    "waktu_masak": "40 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Mudah"
+  },
+  {
+    "id": 5,
+    "nama": "Ikan Kuah Kuning",
+    "gambar": "https://th.bing.com/th/id/OIP.IGv8jSzgmDpMYuqGIZ_kjAHaFB?w=238&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+    "bahan": [
+      "500 gr ikan (gurame, nila, atau ikan sesuai selera)",
+      "2 batang serai, memarkan",
+      "4 lembar daun jeruk",
+      "3 lembar daun salam",
+      "2 cm lengkuas, memarkan",
+      "1 ruas jari kunyit, parut",
+      "2 buah tomat, potong dadu",
+      "1 liter santan encer",
+      "Garam secukupnya",
+      "Gula secukupnya",
+      "Air secukupnya"
+    ],
+    "bumbu_halus": [
+      "6 buah bawang merah",
+      "4 siung bawang putih",
+      "6 butir kemiri",
+      "2 cm jahe"
+    ],
+    "langkah": [
+      "Bersihkan ikan, potong menjadi beberapa bagian sesuai selera.",
+      "Tumis bumbu halus hingga harum. Tambahkan serai, daun jeruk, daun salam, dan lengkuas. Aduk rata.",
+      "Masukkan potongan ikan, aduk hingga ikan berubah warna.",
+      "Tambahkan santan encer, kunyit parut, garam, dan gula. Aduk rata dan masak hingga ikan matang.",
+      "Masukkan potongan tomat, masak sebentar hingga tomat agak layu.",
+      "Koreksi rasa, tambahkan air jika kuah terlalu kental.",
+      "Sajikan ikan kuah kuning dalam mangkuk saji.",
+      "Nikmati ikan kuah kuning dengan nasi putih hangat."
+    ],
+    "waktu_masak": "45 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Mudah"
+  },
+  {
+    "id": 6,
+    "nama": "Ikan Asam Manis",
+    "gambar": "https://th.bing.com/th/id/OIP.0JiLCbsbm7e-TTU-HLk_RwHaEF?w=312&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+    "bahan": [
+      "500 gr ikan (gurame, nila, atau ikan sesuai selera)",
+      "1 buah bawang bombay, iris tipis",
+      "1 buah wortel, potong serong",
+      "1 buah paprika merah, potong dadu",
+      "2 batang daun bawang, iris serong",
+      "3 sendok makan saus tomat",
+      "2 sendok makan saus cabai",
+      "1 sendok makan saus tiram",
+      "1 sendok makan kecap manis",
+      "1 sendok teh cuka",
+      "1 sendok makan gula pasir",
+      "1/2 sendok teh garam",
+      "1/4 sendok teh merica",
+      "2 sendok makan minyak untuk menumis"
+    ],
+    "langkah": [
+      "Panaskan minyak dalam wajan, tumis bawang bombay hingga harum.",
+      "Tambahkan wortel, paprika, dan daun bawang. Aduk rata hingga sayuran setengah matang.",
+      "Masukkan fillet ikan, aduk perlahan hingga ikan berubah warna.",
+      "Tambahkan saus tomat, saus cabai, saus tiram, kecap manis, cuka, gula, garam, dan merica. Aduk rata.",
+      "Masak hingga ikan matang dan bumbu meresap.",
+      "Angkat dan sajikan ikan asam manis dalam piring saji.",
+      "Nikmati ikan asam manis dengan nasi putih hangat."
+    ],
+    "waktu_masak": "35 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Mudah"
+  },
+  {
+    "id": 7,
+    "nama": "Ikan Gurame Rica-Rica",
+    "gambar": "https://th.bing.com/th/id/OIP.6iO2EPJLqqwM7xQWyl2dTgHaD4?w=302&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+    "bahan": [
+      "500 gr ikan (gurame, nila, atau ikan sesuai selera)",
+      "5 buah cabai merah keriting",
+      "10 buah cabai rawit (sesuai selera pedas)",
+      "5 buah bawang merah",
+      "3 siung bawang putih",
+      "1 ruas jari lengkuas",
+      "2 cm jahe",
+      "1 lembar daun salam",
+      "1 batang serai, memarkan",
+      "1 sendok makan gula pasir",
+      "1/2 sendok teh garam",
+      "1/2 sendok teh merica",
+      "Minyak untuk menumis"
+    ],
+    "langkah": [
+      "Panaskan minyak dalam wajan, tumis bawang merah, bawang putih, cabai merah keriting, cabai rawit, lengkuas, jahe, daun salam, dan serai hingga harum.",
+      "Masukkan fillet ikan, aduk perlahan hingga ikan berubah warna.",
+      "Tambahkan gula, garam, dan merica. Aduk rata dan masak hingga ikan matang.",
+      "Angkat dan sajikan ikan rica-rica dalam piring saji.",
+      "Nikmati ikan rica-rica dengan nasi putih hangat."
+    ],
+    "waktu_masak": "40 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Mudah"
+  },
+  {
+    "id": 8,
+    "nama": "Ikan Nila Gulai",
+    "gambar": "https://th.bing.com/th/id/OIP.vQ2w5atd0KCK60LjFDJEYwHaEF?w=278&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+    "bahan": [
+      "500 gr ikan (gurame, nila, atau ikan sesuai selera)",
+      "200 ml santan kental",
+      "2 lembar daun salam",
+      "2 lembar daun jeruk",
+      "1 batang serai, memarkan",
+      "2 cm lengkuas, memarkan",
+      "1 sendok makan minyak untuk menumis",
+      "Garam secukupnya",
+      "Gula secukupnya",
+      "Air secukupnya"
+    ],
+    "bumbu_halus": [
+      "4 buah bawang merah",
+      "3 siung bawang putih",
+      "5 buah cabai merah keriting",
+      "2 buah cabai rawit (sesuai selera pedas)",
+      "1 cm kunyit",
+      "1 sdt ketumbar",
+      "1/2 sdt merica"
+    ],
+    "langkah": [
+      "Bersihkan ikan, potong menjadi beberapa bagian sesuai selera.",
+      "Tumis bumbu halus hingga harum. Tambahkan daun salam, daun jeruk, serai, dan lengkuas. Aduk rata.",
+      "Masukkan potongan ikan, aduk hingga ikan berubah warna.",
+      "Tambahkan santan kental, garam, dan gula. Aduk rata dan masak hingga ikan matang.",
+      "Koreksi rasa, tambahkan air jika kuah terlalu kental.",
+      "Sajikan ikan gulai dalam mangkuk saji.",
+      "Nikmati ikan gulai dengan nasi putih hangat."
+    ],
+    "waktu_masak": "50 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Sedang"
+  },
+  {
+    "id": 9,
+    "nama": "Ikan Pepes",
+    "gambar": "https://th.bing.com/th/id/OIP.QKJkbniDWoDM1oeQRHJ8LgHaFC?w=242&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+    "bahan": [
+      "500 gr ikan (gurame, nila, atau ikan sesuai selera)",
+      "Daun pisang secukupnya untuk membungkus",
+      "Jeruk nipis untuk melumuri ikan"
+    ],
+    "bumbu_halus": [
+      "5 buah bawang merah",
+      "3 siung bawang putih",
+      "5 buah cabai merah keriting",
+      "2 cm kunyit",
+      "1 cm jahe",
+      "1 sdt terasi",
+      "Garam secukupnya",
+      "Gula secukupnya"
+    ],
+    "langkah": [
+      "Bersihkan ikan, potong menjadi beberapa bagian sesuai selera.",
+      "Lumuri ikan dengan jeruk nipis, diamkan sebentar.",
+      "Haluskan bumbu, tambahkan garam dan gula secukupnya. Aduk rata.",
+      "Bungkus ikan dengan daun pisang, beri bumbu halus di atasnya.",
+      "Kukus ikan pepes hingga matang, kurang lebih 30-40 menit.",
+      "Sajikan ikan pepes dalam daun pisang sebagai bungkusnya.",
+      "Nikmati ikan pepes dengan nasi putih hangat."
+    ],
+    "waktu_masak": "40 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Mudah"
+  },
+  {
+    "id": 10,
+    "nama": "Ikan Kuah Kuning",
+    "gambar": "https://th.bing.com/th/id/OIP.38RVPrB5UUUfk5cYmLkU6wAAAA?w=251&h=175&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+    "bahan": [
+      "500 gr ikan (gurame, nila, atau ikan sesuai selera)",
+      "200 ml santan kental",
+      "2 lembar daun salam",
+      "2 lembar daun jeruk",
+      "1 batang serai, memarkan",
+      "2 cm lengkuas, memarkan",
+      "1 sendok makan minyak untuk menumis",
+      "Garam secukupnya",
+      "Gula secukupnya",
+      "Air secukupnya"
+    ],
+    "bumbu_halus": [
+      "4 buah bawang merah",
+      "3 siung bawang putih",
+      "5 buah cabai kuning (sesuai selera pedas)",
+      "2 buah cabai merah keriting",
+      "1 cm kunyit",
+      "1 sdt ketumbar",
+      "1/2 sdt merica"
+    ],
+    "langkah": [
+      "Bersihkan ikan, potong menjadi beberapa bagian sesuai selera.",
+      "Tumis bumbu halus hingga harum. Tambahkan daun salam, daun jeruk, serai, dan lengkuas. Aduk rata.",
+      "Masukkan potongan ikan, aduk hingga ikan berubah warna.",
+      "Tambahkan santan kental, garam, dan gula. Aduk rata dan masak hingga ikan matang.",
+      "Koreksi rasa, tambahkan air jika kuah terlalu kental.",
+      "Sajikan ikan kuah kuning dalam mangkuk saji.",
+      "Nikmati ikan kuah kuning dengan nasi putih hangat."
+    ],
+    "waktu_masak": "45 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Sedang"
+  },
+  {
+    "id": 11,
+    "nama": "Ikan Kari",
+    "gambar": "https://th.bing.com/th/id/OIP.qsz0vOyoDwBguDmyyRWvSgHaE9?w=242&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+    "bahan": [
+      "500 gr ikan (gurame, nila, atau ikan sesuai selera)",
+      "200 ml santan kental",
+      "2 lembar daun salam",
+      "2 lembar daun jeruk",
+      "1 batang serai, memarkan",
+      "2 cm lengkuas, memarkan",
+      "1 sendok makan minyak untuk menumis",
+      "Garam secukupnya",
+      "Gula secukupnya",
+      "Air secukupnya"
+    ],
+    "bumbu_halus": [
+      "4 buah bawang merah",
+      "3 siung bawang putih",
+      "5 buah cabai merah keriting",
+      "2 buah cabai rawit (sesuai selera pedas)",
+      "1 cm kunyit",
+      "1 sdt ketumbar",
+      "1/2 sdt merica"
+    ],
+    "langkah": [
+      "Bersihkan ikan, potong menjadi beberapa bagian sesuai selera.",
+      "Tumis bumbu halus hingga harum. Tambahkan daun salam, daun jeruk, serai, dan lengkuas. Aduk rata.",
+      "Masukkan potongan ikan, aduk hingga ikan berubah warna.",
+      "Tambahkan santan kental, garam, dan gula. Aduk rata dan masak hingga ikan matang.",
+      "Koreksi rasa, tambahkan air jika kuah terlalu kental.",
+      "Sajikan ikan kari dalam mangkuk saji.",
+      "Nikmati ikan kari dengan nasi putih hangat."
+    ],
+    "waktu_masak": "45 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Sedang"
+  },
+  {
+    "id": 12,
+    "nama": "Ikan Bakar Gurame",
+    "gambar": "https://th.bing.com/th/id/OIP.0p3nCDrDzn-D25VD-FAvZgAAAA?w=304&h=175&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+    "bahan": [
+      "500 gr ikan gurame",
+      "3 sendok makan kecap manis",
+      "2 sendok makan kecap asin",
+      "1 sendok makan saus tiram",
+      "1 sendok teh gula merah, serut",
+      "1 sendok teh garam",
+      "1/2 sendok teh merica",
+      "2 buah jeruk nipis, ambil airnya",
+      "Minyak untuk menumis"
+    ],
+    "langkah": [
+      "Bersihkan ikan, beri irisan di bagian tubuh ikan untuk memudahkan bumbu meresap.",
+      "Campur kecap manis, kecap asin, saus tiram, gula merah, garam, merica, dan air jeruk nipis. Aduk rata.",
+      "Panaskan minyak, tumis bumbu yang telah dicampur hingga harum.",
+      "Oleskan bumbu yang sudah ditumis ke seluruh bagian ikan, termasuk di dalam irisan tubuh ikan.",
+      "Bakar ikan di atas bara api atau panggangan hingga matang dan bumbu meresap.",
+      "Angkat dan sajikan ikan bakar dalam piring saji.",
+      "Nikmati ikan bakar gurame dengan nasi putih hangat."
+    ],
+    "waktu_masak": "30 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Mudah"
+  },
+  {
+    "id": 13,
+    "nama": "Ikan Tahu Kecap",
+    "gambar": "https://th.bing.com/th/id/OIP.Pbxs6EYpRDHm_dlFPiSF9gHaEK?w=318&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+    "bahan": [
+      "300 gr ikan tenggiri, potong kotak",
+      "1 blok tahu, potong dadu",
+      "2 buah bawang merah, iris tipis",
+      "2 buah bawang putih, cincang halus",
+      "2 buah tomat, potong kecil",
+      "1 buah cabai merah, iris tipis",
+      "1 buah cabai hijau, iris tipis",
+      "Kecap manis secukupnya",
+      "Gula, garam, dan merica secukupnya",
+      "Minyak untuk menumis"
+    ],
+    "langkah": [
+      "Panaskan minyak, tumis bawang merah dan bawang putih hingga harum.",
+      "Masukkan ikan tenggiri, tumis hingga berubah warna.",
+      "Tambahkan tahu, aduk rata.",
+      "Masukkan tomat, cabai merah, dan cabai hijau. Aduk hingga semua bahan tercampur.",
+      "Tambahkan kecap manis, gula, garam, dan merica sesuai selera. Aduk rata.",
+      "Masak hingga ikan dan tahu matang serta bumbu meresap.",
+      "Sajikan ikan tahu kecap dalam piring saji.",
+      "Nikmati dengan nasi putih."
+    ],
+    "waktu_masak": "25 Menit",
+    "porsi": "3-4 porsi",
+    "tingkat_kesulitan": "Mudah"
+  },
+  {
+    "id": 14,
+    "nama": "Ikan Pindang Serani",
+    "gambar": "https://th.bing.com/th/id/OIP.r8qNPs2IR4COvhWmAJWI1AHaEH?w=330&h=184&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+    "bahan": [
+      "500 gr ikan mujair, bersihkan",
+      "2 lembar daun salam",
+      "2 batang serai, memarkan",
+      "1 ruas lengkuas, memarkan",
+      "3 lembar daun jeruk",
+      "Asam kandis secukupnya",
+      "Gula, garam, dan penyedap rasa secukupnya",
+      "Air secukupnya"
+    ],
+    "langkah": [
+      "Rebus ikan mujair dengan air, masukkan daun salam, serai, lengkuas, dan daun jeruk. Biarkan hingga ikan matang.",
+      "Tambahkan asam kandis, gula, garam, dan penyedap rasa. Aduk rata.",
+      "Biarkan kuah pindang serani mendidih hingga bumbu meresap.",
+      "Angkat dan sajikan ikan pindang serani dalam mangkuk.",
+      "Nikmati ikan pindang serani dengan nasi hangat."
+    ],
+    "waktu_masak": "30 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Mudah"
+  },
+  {
+    "id": 15,
+    "nama": "Sambal Ikan Lele",
+    "gambar": "https://th.bing.com/th/id/OIP.oq_pnd7PtySOk1c5jRQV-QHaHa?w=171&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+    "bahan": [
+      "500 gr ikan lele, bersihkan dan potong menjadi beberapa bagian",
+      "5 buah cabai merah, haluskan",
+      "3 buah cabai rawit, haluskan",
+      "4 siung bawang merah, haluskan",
+      "3 siung bawang putih, haluskan",
+      "1 buah tomat, potong dadu",
+      "2 lembar daun salam",
+      "1 ruas lengkuas, memarkan",
+      "Gula, garam, dan penyedap rasa secukupnya",
+      "Minyak untuk menumis"
+    ],
+    "langkah": [
+      "Tumis bawang merah, bawang putih, cabai merah, dan cabai rawit hingga harum.",
+      "Masukkan ikan lele, aduk rata hingga ikan berubah warna.",
+      "Tambahkan daun salam dan lengkuas. Aduk kembali.",
+      "Masukkan potongan tomat, gula, garam, dan penyedap rasa. Aduk hingga bumbu meresap.",
+      "Biarkan sambal ikan lele mendidih dan ikan matang.",
+      "Angkat dan sajikan sambal ikan lele dalam mangkuk.",
+      "Nikmati sambal ikan lele dengan nasi hangat."
+    ],
+    "waktu_masak": "40 Menit",
+    "porsi": "4 porsi",
+    "tingkat_kesulitan": "Sedang"
+  }  
+] 
